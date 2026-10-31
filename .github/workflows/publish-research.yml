@@ -14,6 +14,9 @@ jobs:
     timeout-minutes: 20
     permissions:
       contents: write
+    env:
+      OPENBLAS_NUM_THREADS: '1'
+      PYTHONHASHSEED: '0'
     steps:
       - uses: actions/checkout@v4
         with:
@@ -34,7 +37,7 @@ jobs:
           python src/optimize_v5.py --evaluate
       - name: Verify numerical results before rendering
         run: python publication/verify_snapshot.py
-      - name: Render diagrams, reports and complete KLA tables
+      - name: Render diagrams reports and complete KLA tables
         run: |
           python src/report_v4.py
           python src/report_v5.py
@@ -45,15 +48,33 @@ jobs:
           python tools/check_f4.py
           python tools/check_f5.py
           python -m unittest discover -s tests -p 'test_optimize_v[45].py' -v
-      - name: Commit verified generated artifacts to the staging branch only
+      - name: Commit verified generated artifacts to staging only
         env:
           EXPECTED_BRANCH: publish/f4-f5-kla-20261031
         run: |
           test "$GITHUB_REF_NAME" = "$EXPECTED_BRANCH"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md docs/index.html data/v4 data/v5 results/v4 results/v5 results/kla_all.csv diagrams/f4 diagrams/f5 layouts/f4 layouts/f5 docs/f4 docs/f5
+          git add README.md docs data/v4 data/v5 data/README.md results layouts/f4 layouts/f5 layouts/README.md diagrams/f4 diagrams/f5 diagrams/README.md src/README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'research: publish verified F4/F5 layouts, benchmarks, diagrams and complete KLA tables'
+            git commit -m 'research: publish verified F4/F5 layouts benchmarks diagrams and complete KLA tables'
             git push origin "HEAD:refs/heads/$EXPECTED_BRANCH"
           fi
+      - name: Retain verification artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: f4-f5-publication-check
+          path: |
+            data/v4
+            data/v5
+            results/v4
+            results/v5
+            results/kla_all.csv
+            README.md
+            docs
+            diagrams/f4
+            diagrams/f5
+            layouts/f4
+            layouts/f5
+          retention-days: 3

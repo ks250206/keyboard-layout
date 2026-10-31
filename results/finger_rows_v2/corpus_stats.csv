@@ -1,0 +1,4 @@
+domain,documents,unique_source_sentences,keystrokes,long_marks,long_mark_pct,original_ja_chars,heldout_keystrokes
+生活文,16,48,7605,100,1.3149243918474687,3537,1901
+業務文,16,48,7920,102,1.2878787878787878,3453,1983
+技術文,16,48,7958,141,1.7718019602915305,3598,1975

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "description": "Original authored modern-style passages deliberately rich in loanwords, not a random or representative sample of modern Japanese. No new layout optimization. Fixed reading and romanization, no IME conversion operations. Long sound mark U+30FC preserved as ASCII minus, never vowel-expanded.",
+  "romanization": "si/ti/tu/hu/zi, palatalized sy/ty; ja/ju/jo; thi/dhi; fa/fi/fe/fo; tye/je for che/je. Same policy as original corpus except explicitly added rare digraphs.",
+  "documents": [
+    {
+      "name": "買い物・日常",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "スーパーでヨーグルトとコーヒーを買い、ベーカリーでチーズ入りのパンを選んだ。レジではスマートフォンのアプリを開き、クーポンとポイントカードを提示した。帰宅してからオンラインストアで掃除機のフィルターを注文し、レビューを読んで配送サービスを選んだ。夕食は冷凍のハンバーグにして、デザートにはケーキを用意した。注文した商品のメールが届いたので、購入履歴からサイズとカラーが正しいことを確かめた。週末はショッピングモールに出かけて、スニーカーとリュックを見てみたい。",
+      "reading_hiragana": "すーぱーでよーぐるととこーひーをかい、べーかりーでちーずいりのぱんをえらんだ。れじではすまーとふぉんのあぷりをひらき、くーぽんとぽいんとかーどをていじした。きたくしてからおんらいんすとあでそうじきのふぃるたーをちゅうもんし、れびゅーをよんではいそうさーびすをえらんだ。ゆうしょくはれいとうのはんばーぐにして、でざーとにはけーきをよういした。ちゅうもんしたしょうひんのめーるがとどいたので、こうにゅうりれきからさいずとからーがただしいことをたしかめた。しゅうまつはしょっぴんぐもーるにでかけて、すにーかーとりゅっくをみてみたい。",
+      "romaji": "su-pa-deyo-gurutotoko-hi-wokai,be-kari-deti-zuirinopanwoeranda.rezidehasuma-tofonnnoapuriwohiraki,ku-pontopointoka-dowoteizisita.kitakusitekaraonrainsutoadesouzikinofiruta-wotyuumonsi,rebyu-woyondehaisousa-bisuwoeranda.yuusyokuhareitounohanba-gunisite,deza-tonihake-kiwoyouisita.tyuumonsitasyouhinnnome-rugatodoitanode,kounyuurirekikarasaizutokara-gatadasiikotowotasikameta.syuumatuhasyoppingumo-runidekakete,suni-ka-toryukkuwomitemitai.",
+      "keystrokes": 437,
+      "long_marks": 22
+    },
+    {
+      "name": "連絡・予定",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "スマートフォンのカレンダーに予定を登録し、家族のグループチャットにメッセージを送った。オンライン会議のリンクはメールで共有し、開始前にマイクとスピーカーの音量を確かめる。パスワードを忘れた場合は、ログイン画面から再設定のメールを受け取れる。写真のデータはクラウドにバックアップし、古いファイルはフォルダーに分けて整理した。週末のドライブではカーナビのルートを確認し、サービスエリアで休憩する予定だ。ホテルの予約ページにはチェックインの時間とキャンセルの条件が書かれていた。",
+      "reading_hiragana": "すまーとふぉんのかれんだーによていをとうろくし、かぞくのぐるーぷちゃっとにめっせーじをおくった。おんらいんかいぎのりんくはめーるできょうゆうし、かいしまえにまいくとすぴーかーのおんりょうをたしかめる。ぱすわーどをわすれたばあいは、ろぐいんがめんからさいせっていのめーるをうけとれる。しゃしんのでーたはくらうどにばっくあっぷし、ふるいふぁいるはふぉるだーにわけてせいりした。しゅうまつのどらいぶではかーなびのるーとをかくにんし、さーびすえりあできゅうけいするよていだ。ほてるのよやくぺーじにはちぇっくいんのじかんときゃんせるのじょうけんがかかれていた。",
+      "romaji": "suma-tofonnnokarenda-niyoteiwotourokusi,kazokunoguru-putyattonimesse-ziwookutta.onrainkaiginorinkuhame-rudekyouyuusi,kaisimaenimaikutosupi-ka-noonryouwotasikameru.pasuwa-dowowasuretabaaiha,roguingamenkarasaisetteinome-ruwouketoreru.syasinnnode-tahakuraudonibakkuappusi,huruifairuhaforuda-niwaketeseirisita.syuumatunodoraibudehaka-nabinoru-towokakuninsi,sa-bisueriadekyuukeisuruyoteida.hoterunoyoyakupe-zinihatyekkuinnnozikantokyanserunojoukengakakareteita.",
+      "keystrokes": 456,
+      "long_marks": 15
+    },
+    {
+      "name": "業務・企画",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "プロジェクトのチームでミーティングを開き、サービスのリリースまでのスケジュールを確認した。ユーザーから届いたフィードバックを整理すると、アカウント登録のページと検索メニューに改善の要望が多かった。担当者はレポートを共有し、次のレビューまでに画面のデザインを修正する。マネージャーはメンバーの作業量を確認し、サポートチームと優先順位を調整した。セキュリティーのチェックとバックアップのテストも必要になる。作業のログはプロジェクトのフォルダーに保存して、更新したファイルにコメントを付けてほしい。",
+      "reading_hiragana": "ぷろじぇくとのちーむでみーてぃんぐをひらき、さーびすのりりーすまでのすけじゅーるをかくにんした。ゆーざーからとどいたふぃーどばっくをせいりすると、あかうんととうろくのぺーじとけんさくめにゅーにかいぜんのようぼうがおおかった。たんとうしゃはれぽーとをきょうゆうし、つぎのれびゅーまでにがめんのでざいんをしゅうせいする。まねーじゃーはめんばーのさぎょうりょうをかくにんし、さぽーとちーむとゆうせんじゅんいをちょうせいした。せきゅりてぃーのちぇっくとばっくあっぷのてすともひつようになる。さぎょうのろぐはぷろじぇくとのふぉるだーにほぞんして、こうしんしたふぁいるにこめんとをつけてほしい。",
+      "romaji": "purojekutonoti-mudemi-thinguwohiraki,sa-bisunoriri-sumadenosukeju-ruwokakuninsita.yu-za-karatodoitafi-dobakkuwoseirisuruto,akauntotourokunope-zitokensakumenyu-nikaizennnoyoubougaookatta.tantousyaharepo-towokyouyuusi,tuginorebyu-madenigamennnodezainwosyuuseisuru.mane-ja-hamenba-nosagyouryouwokakuninsi,sapo-toti-mutoyuusenjunniwotyouseisita.sekyurithi-notyekkutobakkuappunotesutomohituyouninaru.sagyounoroguhapurojekutonoforuda-nihozonsite,kousinsitafairunikomentowotuketehosii.",
+      "keystrokes": 478,
+      "long_marks": 19
+    },
+    {
+      "name": "ソフトウェア開発",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "サーバーのエラーメッセージを確認し、データベースへの接続が失敗する条件を調べた。ユーザーがブラウザーからファイルをアップロードすると、タイムアウトが発生することがある。ソースコードをレビューして、パラメーターとキャッシュの設定を修正した。テスト用のコンテナーを起動し、ネットワークとストレージの状態を確かめる。デプロイ前にはバックアップを取り、リリース後にダッシュボードでログを監視する。ライブラリーを更新した場合は、パッケージのバージョンとライセンスも確認しておく。",
+      "reading_hiragana": "さーばーのえらーめっせーじをかくにんし、でーたべーすへのせつぞくがしっぱいするじょうけんをしらべた。ゆーざーがぶらうざーからふぁいるをあっぷろーどすると、たいむあうとがはっせいすることがある。そーすこーどをれびゅーして、ぱらめーたーときゃっしゅのせっていをしゅうせいした。てすとようのこんてなーをきどうし、ねっとわーくとすとれーじのじょうたいをたしかめる。でぷろいまえにはばっくあっぷをとり、りりーすごにだっしゅぼーどでろぐをかんしする。らいぶらりーをこうしんしたばあいは、ぱっけーじのばーじょんとらいせんすもかくにんしておく。",
+      "romaji": "sa-ba-noera-messe-ziwokakuninsi,de-tabe-suhenosetuzokugasippaisurujoukenwosirabeta.yu-za-gaburauza-karafairuwoappuro-dosuruto,taimuautogahasseisurukotogaaru.so-suko-doworebyu-site,parame-ta-tokyassyunosetteiwosyuuseisita.tesutoyounokontena-wokidousi,nettowa-kutosutore-zinojoutaiwotasikameru.depuroimaenihabakkuappuwotori,riri-sugonidassyubo-doderoguwokansisuru.raiburari-wokousinsitabaaiha,pakke-zinoba-jontoraisensumokakuninsiteoku.",
+      "keystrokes": 434,
+      "long_marks": 23
+    },
+    {
+      "name": "研究・測定",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "センサーのケーブルを交換し、測定データにノイズが混入する原因を調べた。スペクトルのピークを解析するため、フィッティングのパラメーターとベースラインの処理を見直した。試料はグローブボックスの中でホルダーに固定し、温度コントローラーで条件をそろえる。測定後はデータファイルをサーバーに保存し、サンプルの番号と装置のログを対応させた。レポートにはグラフとエラーバーを載せ、モデルの仮定とシミュレーションの結果を説明する。解析スクリプトも共有して、別のメンバーが同じ結果を再現できるようにした。",
+      "reading_hiragana": "せんさーのけーぶるをこうかんし、そくていでーたにのいずがこんにゅうするげんいんをしらべた。すぺくとるのぴーくをかいせきするため、ふぃってぃんぐのぱらめーたーとべーすらいんのしょりをみなおした。しりょうはぐろーぶぼっくすのなかでほるだーにこていし、おんどこんとろーらーでじょうけんをそろえる。そくていごはでーたふぁいるをさーばーにほぞんし、さんぷるのばんごうとそうちのろぐをたいおうさせた。れぽーとにはぐらふとえらーばーをのせ、もでるのかていとしみゅれーしょんのけっかをせつめいする。かいせきすくりぷともきょうゆうして、べつのめんばーがおなじけっかをさいげんできるようにした。",
+      "romaji": "sensa-noke-buruwokoukansi,sokuteide-taninoizugakonnnyuusurugenninwosirabeta.supekutorunopi-kuwokaisekisurutame,fitthingunoparame-ta-tobe-surainnnosyoriwominaosita.siryouhaguro-bubokkusunonakadehoruda-nikoteisi,ondokontoro-ra-dejoukenwosoroeru.sokuteigohade-tafairuwosa-ba-nihozonsi,sanpurunobangoutosoutinoroguwotaiousaseta.repo-tonihagurahutoera-ba-wonose,moderunokateitosimyure-syonnnokekkawosetumeisuru.kaisekisukuriputomokyouyuusite,betunomenba-gaonazikekkawosaigendekiruyounisita.",
+      "keystrokes": 485,
+      "long_marks": 19
+    },
+    {
+      "name": "ゲーム・メディア",
+      "kind": "authored_modern_katakana_enriched_stress_test",
+      "text_ja": "新しいゲームをダウンロードして、チュートリアルでコントローラーの操作を覚えた。プレーヤーはキャラクターを選び、ストーリーを進めながらアイテムを集める。オンラインのモードでは、チームのメンバーとボイスチャットで相談できる。ロードの時間が長いので、ストレージの空き容量とネットワークの速度を調べた。休憩中はイヤホンでポッドキャストを聴き、お気に入りのエピソードをプレイリストに追加した。動画のレビューでは、グラフィックスだけでなく、ユーザーの操作に対するレスポンスも評価されていた。",
+      "reading_hiragana": "あたらしいげーむをだうんろーどして、ちゅーとりあるでこんとろーらーのそうさをおぼえた。ぷれーやーはきゃらくたーをえらび、すとーりーをすすめながらあいてむをあつめる。おんらいんのもーどでは、ちーむのめんばーとぼいすちゃっとでそうだんできる。ろーどのじかんがながいので、すとれーじのあきようりょうとねっとわーくのそくどをしらべた。きゅうけいちゅうはいやほんでぽっどきゃすとをきき、おきにいりのえぴそーどをぷれいりすとについかした。どうがのれびゅーでは、ぐらふぃっくすだけでなく、ゆーざーのそうさにたいするれすぽんすもひょうかされていた。",
+      "romaji": "atarasiige-muwodaunro-dosite,tyu-toriarudekontoro-ra-nosousawooboeta.pure-ya-hakyarakuta-woerabi,suto-ri-wosusumenagaraaitemuwoatumeru.onrainnnomo-dodeha,ti-munomenba-toboisutyattodesoudandekiru.ro-donozikanganagainode,sutore-zinoakiyouryoutonettowa-kunosokudowosirabeta.kyuukeityuuhaiyahondepoddokyasutowokiki,okiniirinoepiso-dowopureirisutonituikasita.douganorebyu-deha,gurafikkusudakedenaku,yu-za-nosousanitaisururesuponsumohyoukasareteita.",
+      "keystrokes": 443,
+      "long_marks": 20
+    }
+  ]
+}

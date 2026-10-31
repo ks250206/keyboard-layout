@@ -64,7 +64,7 @@
 | **Nova-Dev** | コード寄り、`ZXCV` を維持 | `YU-PWFHD.M` | `EAITGLNSOR` | `ZXCVQJ;K,B` | [SVG](diagrams/nova-dev.svg) |
 | **Nova-Ctrl** | `ZXCV` 維持、日英コードの妥協点 | `,BY;-JHDPG` | `OEIAUKRTNS` | `ZXCVQMLW.F` | [SVG](diagrams/nova-ctrl.svg) |
 
-### 推奨候補：Nova-Hybrid
+### 旧モデル（F3以前）の推奨候補：Nova-Hybrid
 
 ![Nova-Hybrid keyboard](diagrams/nova-hybrid.svg)
 

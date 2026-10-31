@@ -30,12 +30,17 @@ def main():
     archive=json.loads((ROOT/'data/aggregates.json').read_text(encoding='utf-8'))
     with (ROOT/'data/external_oss.csv').open(encoding='utf-8-sig',newline='') as f:
         published={(r['language'],r['layout']):r for r in csv.DictReader(f)}
+    with (ROOT/'data/external_oss_kla.csv').open(encoding='utf-8-sig',newline='') as f:
+        published_kla={(r['language'],r['layout']):r for r in csv.DictReader(f)}
     layouts=read_layouts();n=0
     for item in manifest:
         lang=item['language']
         if args.only and lang.lower()!=args.only.lower():continue
         text=load_source(item['repo'],item['blob_sha'])
         part=''.join(text.splitlines(keepends=True)[item['start']-1:item['end']])
+        # GitHub fetch_file ranged excerpts used for the archived baseline
+        # omit the trailing newline from the final selected line.
+        if part.endswith('\n'): part=part[:-1]
         counts=document_counts(part,archive['alphabet'])
         q=metrics('QWERTY',layouts,counts,archive['alphabet'])
         print(f"{lang:12} {item['repo']}/{item['path']}  keys={counts['n']}")
@@ -47,6 +52,11 @@ def main():
             original=published[(lang,name)]
             if abs(gain-float(original['predicted_gain_vs_qwerty_pct']))>0.04:
                 raise AssertionError(f'{lang}, {name}: predicted gain {gain:.2f}, published {original["predicted_gain_vs_qwerty_pct"]}')
+            if abs(r['estimated_seconds']-float(original['estimated_time_s']))>0.15:
+                raise AssertionError(f'{lang}, {name}: estimated time mismatch')
+            published_score=published_kla[(lang,name)]
+            if abs(r['KLA_approx']-float(published_score['KLA_approx']))>0.02:
+                raise AssertionError(f'{lang}, {name}: KLA approx {r["KLA_approx"]:.2f} vs {published_score["KLA_approx"]}')
         n+=1
     print(f'PASS: {n} external files compared to benchmark snapshot')
 

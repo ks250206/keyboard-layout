@@ -1,0 +1,17 @@
+{
+  "author": "ks250206",
+  "documents": [
+    {
+      "language": "ja",
+      "author": "ks250206",
+      "pages": 15
+    },
+    {
+      "language": "en",
+      "author": "ks250206",
+      "pages": 14
+    }
+  ],
+  "status": "passed",
+  "scope": "Author labels and metadata only; scientific results unchanged."
+}

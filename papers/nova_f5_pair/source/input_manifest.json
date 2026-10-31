@@ -1,0 +1,19 @@
+{
+  "snapshot": "ec596b262328ce66629c4f56874dffb364395e7d",
+  "sha256": {
+    "src/optimize_v4.py": "0d46e7756207cbd8512e72d60ecb56f5e3328758edbee8147285534945f88728",
+    "src/optimize_v5.py": "385c5329ae94fe53c316520482175fce96861b66ed500f24bf9662e60ab35902",
+    "data/v4/raw_ngrams.json.gz": "311a34d5d6c1bc83bc56f83288617877beedee224edc1d06de4c676fc91d7b14",
+    "data/synthetic_three_domains.json": "57644a8562add6be7e79450f33a786f1693744f1b7cec22c6d9ce3f08a2ce5db",
+    "layouts/f5/full_layers.json": "043443ae4a31a6e82e76cbbca24c1c620087b905c0f285d6076ec157334053ef",
+    "results/v4/scores.csv": "08ccdc52d0a17264ccdb574caf3b70e157591600af2b1bc8a614fe6d33d1584f",
+    "results/v5/scores.csv": "48e964c8f69ecef9378acf1d0c6116466c22a2c31ebe72d7fb7712ab47496289",
+    "results/kla_all.csv": "6550f909ab79c2108ceb4c5039b83220b2b15cc910890927f581fe38df59da5f",
+    "results/v5/pair_relations.csv": "69bb6c0bd10283ba54eb0edbb70e6e73b92b1009c26b861c54b450f5a0132e1b",
+    "diagrams/f5/pair.svg": "38b1ca7e3dc20055ace548b3d880586b7a03a57c77bd643d7c3386013c4f3216",
+    "results/v4/search/Balance_left_runs.csv": "6f7029b544181899a637b6b81ebf76669309329dfcce4ac26d501a981466c87e",
+    "results/v5/search/Balance_mixed_runs.csv": "003f95a7eee2990d3a97c495e9c04a783d3278963b06454fa36bd2efea301625",
+    "results/v5/search/Balance_shift_runs.csv": "46c086e5f0ef68fd82d3fed455cd1f7e2f6efc642ca745115f54a1d67cde1665",
+    "results/v5/search/Balance_grid_runs.csv": "b1b15b77c6ba256ef1a0ade8740acbb04ec29f76e742105267fe4c33477f803c"
+  }
+}

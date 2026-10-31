@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-31",
+  "author": "ks250206",
+  "research_snapshot": "ec596b262328ce66629c4f56874dffb364395e7d",
+  "publication_workflow_run": 41203481307,
+  "source_hashes_checked": 14,
+  "recomputed_f4_cases": 768,
+  "recomputed_f5_cases": 736,
+  "kla_appendix_values_per_language": 420,
+  "tables_per_language": 12,
+  "figures_per_language": 2,
+  "pdf_pages": {"ja": 15, "en": 14},
+  "pixel_changed_pages": {"ja": [1, 11], "en": [1, 10]},
+  "pixel_unchanged_pages": {"ja": 13, "en": 12},
+  "checks": [
+    "Frozen score recalculation passed without changing benchmark data",
+    "All input and output hashes passed publication verification",
+    "Japanese and English manuscript bylines and project self-citations use ks250206",
+    "DOCX creator and last-modified-by metadata use ks250206",
+    "PDF Author metadata uses ks250206",
+    "All manuscript sources, DOCX XML and extracted PDF text were checked for residual previous author labels; none found",
+    "Scientific PDF text is unchanged after normalizing whitespace and the requested author-label substitutions",
+    "Changed PDF pages visually reviewed; all other 25 pages are pixel-identical to the previously reviewed publication",
+    "Both corrected DOCX files were rendered successfully with LibreOffice"
+  ],
+  "limitations": "Computational research manuscript; no human typing speed, learning or fatigue validation. Layout selected for GALACTYPE, not asserted to be implemented."
+}

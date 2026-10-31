@@ -1,0 +1,22 @@
+{
+  "author": "ks250206",
+  "source_commit": "ec596b262328ce66629c4f56874dffb364395e7d",
+  "adopted_layout_id": "F5-Balance-mixed",
+  "display_name": "F5-Pair",
+  "decision": "Selected for GALACTYPE; integration is not asserted",
+  "actual_japanese_sentences": {
+    "train": 94,
+    "validation": 24,
+    "test": 24,
+    "total": 142
+  },
+  "kla_layouts": 30,
+  "kla_evaluation_groups": 14,
+  "score_cases_reproduced": 1504,
+  "outputs": {
+    "nova_f5_pair_ja.docx": "35fd904b2ab6a0956c5fe6f1f59d4dd7cca127e6895d4bd7f30caf2f577b3c0f",
+    "nova_f5_pair_ja.pdf": "6879fa833ddec37c526b24d7b6da4b4d29b9411e15acd5a4b34e5629841cc482",
+    "nova_f5_pair_en.docx": "3340906e6bbc17f18ddc430ca3574e717a832f74cb5b7b24de87b82e4854ca4c",
+    "nova_f5_pair_en.pdf": "64ea698e42bb5dcb52d761f59b4ac02dc6fab807a3cade7dce7be25b357ad2c4"
+  }
+}

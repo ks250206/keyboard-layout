@@ -1,5 +1,20 @@
 # NOVA — 日本語・英語・コードのキーボード配列研究
 
+<!-- NOVA-PAPER:START -->
+## 採用配列と論文
+
+**タイピングゲームGALACTYPEの採用配列はNOVA F5-Pair（内部ID：F5-Balance-mixed）です。** 採用方針の記録であり、ゲーム実装済み・実測効果検証済みという意味ではありません。
+
+| 論文 | DOCX | PDF |
+|:--|:--|:--|
+| 日本語 | [編集用](papers/nova_f5_pair/nova_f5_pair_ja.docx) | [閲覧用](papers/nova_f5_pair/nova_f5_pair_ja.pdf) |
+| English | [Editable](papers/nova_f5_pair/nova_f5_pair_en.docx) | [Read](papers/nova_f5_pair/nova_f5_pair_en.pdf) |
+
+[論文の概要・原稿・再生成手順](papers/nova_f5_pair/README.md)。本文と付録に研究経緯、運動モデル、Shift・記号ペア制約、探索、限界、全30配列×14評価群のKLA-main値をまとめています。
+
+**件数の監査訂正：** 設計上の144元文のうち保存文書に存在するのは142文でした。最終統計は学習94文・検証24文・テスト24文です。従来の96/24/24は名目上の説明値であり、文字数・コーパス・配列・性能値は変更していません。
+<!-- NOVA-PAPER:END -->
+
 **最新：F5 / 記号ペア制約 / 2026-10-31 / 研究用プロトタイプ**
 
 数字1〜0を固定し、指×段×内外側とShift操作を考慮して探索した配列です。関連記号は左右隣接または同一キーの通常面／Shift面に揃えます。**速度は未校正の運動モデルによる推定で、実測WPM・学習しやすさは未検証です。**

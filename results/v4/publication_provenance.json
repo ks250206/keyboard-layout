@@ -1,0 +1,12 @@
+{
+  "source_base_commit": "748bdb47a3239c4d0a0c66214a639377ee17078c",
+  "data_sha256": "311a34d5d6c1bc83bc56f83288617877beedee224edc1d06de4c676fc91d7b14",
+  "cases": 768,
+  "layouts": 24,
+  "search_totals": {
+    "proposals": 64000000,
+    "valid": 29373513,
+    "polish_evaluations": 4990936
+  },
+  "runtime_note": "Logs were reproduced with frozen seeds during publication; elapsed wall time is environment-dependent. Numerical snapshots were independently compared."
+}

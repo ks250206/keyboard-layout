@@ -1,0 +1,5311 @@
+{
+  "schema_version": 1,
+  "version": 4,
+  "status": "research mappings, not tested QMK/VIA firmware",
+  "digits_fixed": true,
+  "uppercase_follows_lowercase": true,
+  "layouts": {
+    "F4-Balance-free": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "~",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "|",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "@",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "<",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "{",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "\"",
+        "shift": "&",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": ">",
+        "shift": "`",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "'",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": ".",
+        "shift": "*",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ";",
+        "shift": "+",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "/",
+        "shift": "}",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ",",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "=",
+        "shift": "#",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ")",
+        "shift": "]",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "-",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "(",
+        "shift": "!",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Balance": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "^",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "~",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "\\",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "|",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "@",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "}",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "!",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "<",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "*",
+        "shift": "`",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "#",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ";",
+        "shift": "+",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "y",
+        "shift": "Y",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": "(",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": ",",
+        "shift": "\"",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": ")",
+        "shift": "'",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": "/",
+        "shift": "]",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "-",
+        "shift": ">",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "{",
+        "shift": "&",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Balance-R": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "~",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": null,
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "|",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "&",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "}",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "+",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "@",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "!",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "*",
+        "shift": "$",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": "`",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "{",
+        "shift": "'",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": "_",
+        "shift": "?",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ")",
+        "shift": ">",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "(",
+        "shift": "[",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ";",
+        "shift": "#",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": ",",
+        "shift": "]",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "/",
+        "shift": "<",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "-",
+        "shift": "\"",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Balance-shift-only": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "$",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "!",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "'",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "#",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "{",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "|",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "}",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "/",
+        "shift": "<",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "^",
+        "shift": "~",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "v",
+        "shift": "V",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "-",
+        "shift": "*",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ",",
+        "shift": "\"",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "@",
+        "shift": "=",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "[",
+        "shift": "&",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ";",
+        "shift": ")",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": ":",
+        "shift": "_",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "]",
+        "shift": "+",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": ".",
+        "shift": "(",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "j",
+        "shift": "J",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": "x",
+        "shift": "X",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "q",
+        "shift": "Q",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "\\",
+        "shift": ">",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Balance-symbols-only": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "~",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "|",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "&",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "]",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "'",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "@",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "!",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": ">",
+        "shift": "%",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "v",
+        "shift": "V",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "-",
+        "shift": "{",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ";",
+        "shift": "<",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "_",
+        "shift": "#",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": ":",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": "(",
+        "shift": "\"",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": ",",
+        "shift": "[",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "/",
+        "shift": "*",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": ".",
+        "shift": "}",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "j",
+        "shift": "J",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": "x",
+        "shift": "X",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "q",
+        "shift": "Q",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": ")",
+        "shift": "+",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Code": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "~",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "\\",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "?",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "@",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "+",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "<",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "&",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "!",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "\"",
+        "shift": "$",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": ",",
+        "shift": "'",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "-",
+        "shift": ">",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": "(",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ";",
+        "shift": "}",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "_",
+        "shift": "*",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "{",
+        "shift": "#",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ")",
+        "shift": "]",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "/",
+        "shift": "|",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "p",
+        "shift": "P",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-Code-right": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "^",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "$",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "~",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "&",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "+",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "!",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "@",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "\"",
+        "shift": "<",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "*",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "'",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "y",
+        "shift": "Y",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": ",",
+        "shift": "{",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ";",
+        "shift": "#",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": "(",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "=",
+        "shift": ">",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ")",
+        "shift": "]",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "/",
+        "shift": "|",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "-",
+        "shift": "}",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-JP": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "%",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "\\",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "|",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "&",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "{",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "+",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "@",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "\"",
+        "shift": "<",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": ">",
+        "shift": "~",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "?",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "-",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": "(",
+        "shift": "!",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "y",
+        "shift": "Y",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ";",
+        "shift": "}",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": ",",
+        "shift": "*",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "=",
+        "shift": "]",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ")",
+        "shift": "'",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "/",
+        "shift": "#",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-JP-left": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "^",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": "~",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "%",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "`",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "&",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "}",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "+",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "@",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "<",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "*",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": null,
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "]",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "-",
+        "shift": ">",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ";",
+        "shift": "!",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "y",
+        "shift": "Y",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": ",",
+        "shift": "[",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "(",
+        "shift": "\"",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "{",
+        "shift": "#",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ")",
+        "shift": "'",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": ".",
+        "shift": ":",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "/",
+        "shift": "|",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "c",
+        "shift": "C",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "F4-JP-right": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "\\",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "$",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "%",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": null,
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "~",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "|",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "@",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": "+",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "<",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "[",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "=",
+        "shift": "!",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "*",
+        "shift": "`",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": "^",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "_",
+        "shift": "&",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": ".",
+        "shift": "}",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "p",
+        "shift": "P",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": ")",
+        "shift": "'",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "/",
+        "shift": "]",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "w",
+        "shift": "W",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "r",
+        "shift": "R",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "y",
+        "shift": "Y",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "-",
+        "shift": "\"",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "f",
+        "shift": "F",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "q",
+        "shift": "Q",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "o",
+        "shift": "O",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "u",
+        "shift": "U",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "i",
+        "shift": "I",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": "j",
+        "shift": "J",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "t",
+        "shift": "T",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "s",
+        "shift": "S",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": "g",
+        "shift": "G",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "x",
+        "shift": "X",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": ",",
+        "shift": ":",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "(",
+        "shift": "#",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": ";",
+        "shift": ">",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "c",
+        "shift": "C",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "{",
+        "shift": "?",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "b",
+        "shift": "B",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "d",
+        "shift": "D",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": "z",
+        "shift": "Z",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "v",
+        "shift": "V",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ],
+    "QWERTY-ShiftDigitsExact": [
+      {
+        "physical_key": "number_1",
+        "base": "1",
+        "shift": "%",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          -0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_2",
+        "base": "2",
+        "shift": "#",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          0.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_3",
+        "base": "3",
+        "shift": "$",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          1.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_4",
+        "base": "4",
+        "shift": null,
+        "finger": "L-index",
+        "coordinate_pitch": [
+          2.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_5",
+        "base": "5",
+        "shift": "&",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_6",
+        "base": "6",
+        "shift": "'",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          4.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_7",
+        "base": "7",
+        "shift": "\"",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_8",
+        "base": "8",
+        "shift": ")",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          6.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_9",
+        "base": "9",
+        "shift": "(",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          7.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_10",
+        "base": "0",
+        "shift": "!",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          8.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_11",
+        "base": "-",
+        "shift": "=",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_12",
+        "base": "^",
+        "shift": "~",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "number_13",
+        "base": "¥",
+        "shift": "|",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.5,
+          2.0
+        ]
+      },
+      {
+        "physical_key": "upper_1",
+        "base": "q",
+        "shift": "Q",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_2",
+        "base": "w",
+        "shift": "W",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_3",
+        "base": "e",
+        "shift": "E",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_4",
+        "base": "r",
+        "shift": "R",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_5",
+        "base": "t",
+        "shift": "T",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_6",
+        "base": "y",
+        "shift": "Y",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_7",
+        "base": "u",
+        "shift": "U",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_8",
+        "base": "i",
+        "shift": "I",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_9",
+        "base": "o",
+        "shift": "O",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_10",
+        "base": "p",
+        "shift": "P",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_11",
+        "base": "@",
+        "shift": "`",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "upper_12",
+        "base": "[",
+        "shift": "{",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.0,
+          1.0
+        ]
+      },
+      {
+        "physical_key": "home_1",
+        "base": "a",
+        "shift": "A",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_2",
+        "base": "s",
+        "shift": "S",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_3",
+        "base": "d",
+        "shift": "D",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_4",
+        "base": "f",
+        "shift": "F",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_5",
+        "base": "g",
+        "shift": "G",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_6",
+        "base": "h",
+        "shift": "H",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_7",
+        "base": "j",
+        "shift": "J",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_8",
+        "base": "k",
+        "shift": "K",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_9",
+        "base": "l",
+        "shift": "L",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_10",
+        "base": ";",
+        "shift": "+",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_11",
+        "base": ":",
+        "shift": "*",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "home_12",
+        "base": "]",
+        "shift": "}",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          11.22,
+          0.0
+        ]
+      },
+      {
+        "physical_key": "lower_1",
+        "base": "z",
+        "shift": "Z",
+        "finger": "L-pinky",
+        "coordinate_pitch": [
+          0.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_2",
+        "base": "x",
+        "shift": "X",
+        "finger": "L-ring",
+        "coordinate_pitch": [
+          1.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_3",
+        "base": "c",
+        "shift": "C",
+        "finger": "L-middle",
+        "coordinate_pitch": [
+          2.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_4",
+        "base": "v",
+        "shift": "V",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          3.4699999999999998,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_5",
+        "base": "b",
+        "shift": "B",
+        "finger": "L-index",
+        "coordinate_pitch": [
+          4.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_6",
+        "base": "n",
+        "shift": "N",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          5.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_7",
+        "base": "m",
+        "shift": "M",
+        "finger": "R-index",
+        "coordinate_pitch": [
+          6.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_8",
+        "base": ",",
+        "shift": "<",
+        "finger": "R-middle",
+        "coordinate_pitch": [
+          7.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_9",
+        "base": ".",
+        "shift": ">",
+        "finger": "R-ring",
+        "coordinate_pitch": [
+          8.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_10",
+        "base": "/",
+        "shift": "?",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          9.47,
+          -1.0
+        ]
+      },
+      {
+        "physical_key": "lower_11",
+        "base": "\\",
+        "shift": "_",
+        "finger": "R-pinky",
+        "coordinate_pitch": [
+          10.47,
+          -1.0
+        ]
+      }
+    ]
+  }
+}

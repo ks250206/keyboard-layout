@@ -1,0 +1,20 @@
+name: Audit staged publication inputs
+on:
+  push:
+    branches: [publish/f4-f5-kla-20261031]
+    paths: [publication/audit.json]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: List input hashes
+        run: sha256sum publication/delta/*.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: staged-input-audit
+          path: publication/delta/*.json
+          retention-days: 1

@@ -1,0 +1,86 @@
+[
+  {
+    "language": "Python",
+    "project": "requests",
+    "path": "/opt/pyvenv/lib/python3.13/site-packages/requests/sessions.py",
+    "chars": 12000
+  },
+  {
+    "language": "Python",
+    "project": "CPython asyncio",
+    "path": "/usr/lib/python3.13/asyncio/base_events.py",
+    "chars": 12000
+  },
+  {
+    "language": "JavaScript",
+    "project": "noVNC RFB",
+    "path": "/opt/novnc/core/rfb.js",
+    "chars": 12000
+  },
+  {
+    "language": "JavaScript",
+    "project": "noVNC UI",
+    "path": "/opt/novnc/app/ui.js",
+    "chars": 12000
+  },
+  {
+    "language": "TypeScript",
+    "project": "MathJax",
+    "path": "/opt/nvm/versions/node/v22.16.0/lib/node_modules/mathjax-full/ts/adaptors/liteAdaptor.ts",
+    "chars": 12000
+  },
+  {
+    "language": "TypeScript",
+    "project": "MathJax Parser",
+    "path": "/opt/nvm/versions/node/v22.16.0/lib/node_modules/mathjax-full/ts/adaptors/lite/Parser.ts",
+    "chars": 12000
+  },
+  {
+    "language": "Go",
+    "project": "Go http",
+    "path": "/usr/local/go/src/net/http/server.go",
+    "chars": 12000
+  },
+  {
+    "language": "Go",
+    "project": "Go json",
+    "path": "/usr/local/go/src/encoding/json/decode.go",
+    "chars": 11998
+  },
+  {
+    "language": "C",
+    "project": "Biopython C aligner",
+    "path": "/opt/pyvenv/lib/python3.13/site-packages/Bio/Align/_pairwisealigner.c",
+    "chars": 12000
+  },
+  {
+    "language": "C",
+    "project": "Biopython C codon",
+    "path": "/opt/pyvenv/lib/python3.13/site-packages/Bio/Align/_codonaligner.c",
+    "chars": 12000
+  },
+  {
+    "language": "C++",
+    "project": "sharp pipeline",
+    "path": "/opt/nvm/versions/node/v22.16.0/lib/node_modules/sharp/src/pipeline.cc",
+    "chars": 12000
+  },
+  {
+    "language": "C++",
+    "project": "sharp operations",
+    "path": "/opt/nvm/versions/node/v22.16.0/lib/node_modules/sharp/src/operations.cc",
+    "chars": 12000
+  },
+  {
+    "language": "Java",
+    "project": "LibreOffice Highlight",
+    "path": "/usr/lib/libreoffice/share/Scripts/java/Highlight/HighlightText.java",
+    "chars": 8357
+  },
+  {
+    "language": "Java",
+    "project": "LibreOffice Memory",
+    "path": "/usr/lib/libreoffice/share/Scripts/java/MemoryUsage/MemoryUsage.java",
+    "chars": 4878
+  }
+]

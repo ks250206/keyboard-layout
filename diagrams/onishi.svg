@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="560" viewBox="0 0 1320 560" role="img" aria-label="Keyboard layout 大西">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091421"/><stop offset="1" stop-color="#182033"/></linearGradient></defs>
+<rect x="0.0" y="0.0" width="1320.0" height="560.0" rx="28" fill="url(#bg)" stroke="none" stroke-width="1" />
+<rect x="28.0" y="28.0" width="1264.0" height="500.0" rx="22" fill="#111c2e" stroke="#314158" stroke-width="1" />
+<text x="65.0" y="81.0" fill="#f0f5fe" text-anchor="start" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="42" font-weight="760">大西</text>
+<text x="65.0" y="115.0" fill="#8ca6ce" text-anchor="start" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="16" font-weight="700">JAPANESE ROMAJI</text>
+<text x="1245.0" y="85.0" fill="#98aec9" text-anchor="end" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="14" font-weight="600">30-KEY CORE / STAGGERED</text>
+<rect x="85.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="131.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">Q</text>
+<rect x="193.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="239.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">L</text>
+<rect x="301.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#154c4a" stroke="#49616f" stroke-width="1.0" />
+<text x="347.0" y="199.6" fill="#c9fff0" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">U</text>
+<rect x="409.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#2c334b" stroke="#33465e" stroke-width="1.0" />
+<text x="455.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">,</text>
+<rect x="517.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#2c334b" stroke="#33465e" stroke-width="1.0" />
+<text x="563.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">.</text>
+<rect x="645.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="691.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">F</text>
+<rect x="753.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="799.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">W</text>
+<rect x="861.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="907.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">R</text>
+<rect x="969.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="1015.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">Y</text>
+<rect x="1077.0" y="152.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="1123.0" y="199.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">P</text>
+<rect x="103.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#154c4a" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="126.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="149.4" y="297.6" fill="#c9fff0" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">E</text>
+<text x="149.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="211.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#154c4a" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="234.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="257.4" y="297.6" fill="#c9fff0" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">I</text>
+<text x="257.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="319.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#154c4a" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="342.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="365.4" y="297.6" fill="#c9fff0" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">A</text>
+<text x="365.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="427.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#154c4a" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="450.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="473.4" y="297.6" fill="#c9fff0" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">O</text>
+<text x="473.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="535.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#2c334b" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="558.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="581.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">-</text>
+<text x="581.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="663.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="686.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="709.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">K</text>
+<text x="709.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="771.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="794.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="817.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">T</text>
+<text x="817.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="879.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="902.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="925.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">N</text>
+<text x="925.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="987.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="1010.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="1033.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">S</text>
+<text x="1033.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="1095.4" y="250.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#8ca6ce" stroke-width="2.0" />
+<rect x="1118.4" y="324.0" width="46.0" height="2.3" rx="1" fill="#8ca6ce" stroke="none" stroke-width="1" />
+<text x="1141.4" y="297.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">H</text>
+<text x="1141.4" y="318.1" fill="#a8bfd3" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="9" font-weight="600">HOME</text>
+<rect x="121.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="167.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">Z</text>
+<rect x="229.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="275.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">X</text>
+<rect x="337.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="383.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">C</text>
+<rect x="445.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="491.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">V</text>
+<rect x="553.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#2c334b" stroke="#33465e" stroke-width="1.0" />
+<text x="599.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">;</text>
+<rect x="681.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="727.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">G</text>
+<rect x="789.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="835.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">D</text>
+<rect x="897.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="943.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">M</text>
+<rect x="1005.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="1051.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">J</text>
+<rect x="1113.8" y="348.0" width="92.0" height="82.0" rx="10.12" fill="#1a2946" stroke="#33465e" stroke-width="1.0" />
+<text x="1159.8" y="395.6" fill="#f1f4fb" text-anchor="middle" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="31" font-weight="750">B</text>
+<rect x="85.0" y="491.0" width="12.0" height="12.0" rx="5" fill="#154c4a" stroke="#49616f" stroke-width="1" />
+<text x="106.0" y="502.0" fill="#c0cedd" text-anchor="start" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="13" font-weight="500">VOWELS / 母音</text>
+<rect x="325.0" y="491.0" width="12.0" height="12.0" rx="4" fill="#1a2946" stroke="#33465e" stroke-width="1" />
+<text x="345.0" y="502.0" fill="#c0cedd" text-anchor="start" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="13" font-weight="500">CONSONANTS / 子音</text>
+<rect x="595.0" y="491.0" width="12.0" height="12.0" rx="4" fill="#2c334b" stroke="#33465e" stroke-width="1" />
+<text x="615.0" y="502.0" fill="#c0cedd" text-anchor="start" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="13" font-weight="500">PUNCTUATION</text>
+<text x="1232.0" y="502.0" fill="#c0cedd" text-anchor="end" font-family="Inter,Arial,Noto Sans,sans-serif" font-size="13" font-weight="600">HOME ROW OUTLINED</text>
+</svg>

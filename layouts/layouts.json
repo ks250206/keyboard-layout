@@ -1,0 +1,47 @@
+{
+  "QWERTY": [
+    "qwertyuiop",
+    "asdfghjkl;",
+    "zxcvbnm,./"
+  ],
+  "Dvorak": [
+    "',.pyfgcrl",
+    "aoeuidhtns",
+    ";qjkxbmwvz"
+  ],
+  "Colemak": [
+    "qwfpgjluy;",
+    "arstdhneio",
+    "zxcvbkm,./"
+  ],
+  "Workman": [
+    "qdrwbjfup;",
+    "ashtgyneoi",
+    "zxmcvkl,./"
+  ],
+  "大西": [
+    "qlu,.fwryp",
+    "eiao-ktnsh",
+    "zxcv;gdmjb"
+  ],
+  "Nova-JP": [
+    "qc-flxg.hd",
+    "aiou,rsnkt",
+    "jpe;vbwymz"
+  ],
+  "Nova-Hybrid": [
+    "y,up;vgxmz",
+    "eoaicktrns",
+    "f.-jqbdlhw"
+  ],
+  "Nova-Dev": [
+    "yu-pwfhd.m",
+    "eaitglnsor",
+    "zxcvqj;k,b"
+  ],
+  "Nova-Ctrl": [
+    ",by;-jhdpg",
+    "oeiaukrtns",
+    "zxcvqmlw.f"
+  ]
+}

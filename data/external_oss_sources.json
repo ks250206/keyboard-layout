@@ -1,0 +1,82 @@
+[
+  {
+    "language": "Python",
+    "repo": "python/cpython",
+    "path": "Lib/asyncio/base_events.py",
+    "start": 120,
+    "end": 420,
+    "blob_sha": "9eb34c5f29fb551695c397be3f1294ba2e5a01ee",
+    "keystrokes": 10247,
+    "baseline_seconds": 1559.55
+  },
+  {
+    "language": "JavaScript",
+    "repo": "novnc/noVNC",
+    "path": "core/rfb.js",
+    "start": 250,
+    "end": 520,
+    "blob_sha": "8994317bf3a6e10af18c10f63d9de130e3beada8",
+    "keystrokes": 8709,
+    "baseline_seconds": 1355.17
+  },
+  {
+    "language": "TypeScript",
+    "repo": "microsoft/TypeScript",
+    "path": "packages/typescript/src/ast/scanner.ts",
+    "start": 470,
+    "end": 740,
+    "blob_sha": "1c38d4358687b05a71c9bf746e0380b66fd228b2",
+    "keystrokes": 10498,
+    "baseline_seconds": 1603.5
+  },
+  {
+    "language": "Rust",
+    "repo": "rust-lang/rust",
+    "path": "library/core/src/option.rs",
+    "start": 960,
+    "end": 1200,
+    "blob_sha": "f53eb4a294194d2f61370dd2e21fea19382bea75",
+    "keystrokes": 8021,
+    "baseline_seconds": 1241.46
+  },
+  {
+    "language": "Go",
+    "repo": "golang/go",
+    "path": "src/net/http/server.go",
+    "start": 400,
+    "end": 700,
+    "blob_sha": "bcc38d874abb84db695895e939459ee29bcdcb2e",
+    "keystrokes": 9605,
+    "baseline_seconds": 1470.79
+  },
+  {
+    "language": "C",
+    "repo": "sqlite/sqlite",
+    "path": "src/where.c",
+    "start": 350,
+    "end": 650,
+    "blob_sha": "e78cb64b994dcb1653ab5c6459039a86f073c246",
+    "keystrokes": 10751,
+    "baseline_seconds": 1690.23
+  },
+  {
+    "language": "C++",
+    "repo": "fmtlib/fmt",
+    "path": "include/fmt/format.h",
+    "start": 400,
+    "end": 700,
+    "blob_sha": "a2fc962199935947089c828cc9c2dd607716f57e",
+    "keystrokes": 10322,
+    "baseline_seconds": 1636.9
+  },
+  {
+    "language": "Java",
+    "repo": "google/guava",
+    "path": "guava/src/com/google/common/collect/ImmutableList.java",
+    "start": 330,
+    "end": 610,
+    "blob_sha": "96b6fcb9d74fe5785ba907bc85f2af9827aa99a4",
+    "keystrokes": 8650,
+    "baseline_seconds": 1347.36
+  }
+]
